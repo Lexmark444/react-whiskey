@@ -1,3 +1,3 @@
 # react-whiskey
 
-hosted on netlify: https://steady-bienenstitch-160944.netlify.app/
+hosted on netlify: https://elaborate-pothos-d890da.netlify.app/
